@@ -1,0 +1,5 @@
+# Ignore files and folders that are not needed in context for build and creating the image
+.idea
+Dockerfile
+README.md
+tests
